@@ -1,0 +1,31 @@
+best_book
+show_author_info 1818
+best_book
+show_sorted_shelf 53 want_to_read Autobiography
+best_book
+credit 36
+credit 74
+show_author_info 593
+recommend_second_approach 101
+show_sorted_shelf 74 want_to_read Fantasy
+show_sorted_shelf 55 read Autobiography
+best_book
+recommend_first_approach 72
+recommend_second_approach 90
+credit 65
+best_book
+show_sorted_shelf 121 currently_reading Fantasy
+show_sorted_shelf 89 read History
+show_sorted_shelf 62 want_to_read Romance
+recommend_second_approach 0
+best_book
+show_author_info 284
+credit 129
+best_book
+best_reviewer
+credit 87
+show_author_info 1285
+credit 128
+best_book
+credit 69
+show_author_info 779
